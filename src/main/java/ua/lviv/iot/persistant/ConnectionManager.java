@@ -11,7 +11,7 @@ import java.sql.SQLException;
 
 public class ConnectionManager {
     private static String username="root";
-    private static String password="Max0993319943";
+    private static String password="***********";
     private static String url="jdbc:mysql://localhost:3306/max_zvaryh_db_lab3?serverTimezone=UTC";
     private static Connection connection = null;
 
